@@ -23,4 +23,7 @@
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS:
 ## 4. VIDEO
 ## 5. CONCLUSIONES:
+* Cada ejercicio realizado, ayuda de una manera precisa al momento de realizar circuitos prácticos.
+* Los circuitos en serie y paralelo tienen sus diferentes funciones y ambos son circuitos eléctricos de corriente continua.
 ## 6. BIBLIOGRAFÍA:  
+https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
